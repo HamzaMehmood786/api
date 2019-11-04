@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+		"name":"Haji Muhammad Younis",
+		"company":"sharkpur Flour Mills",
+		"address":"Lahore Road Okara",
+		"cell":"03216950240",
+		"crop_name":"Wheat"
+    },
+	{
+        "id":2,
+		"name":"Haji Nadeem Akram",
+		"company":"Naik Barkat Corporation",
+		"address":"Smad Pura Road Okara",
+		"cell":"03457444666",
+		"crop_name":"Wheat"
+    }
+]
